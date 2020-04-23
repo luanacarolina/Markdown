@@ -1,3 +1,3 @@
 # Markdown
 
-## Anotações dos meus estudos sobre Markdown.
+ Anotações dos meus estudos sobre Markdown.
